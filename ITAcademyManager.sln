@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34701.34
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ITAcademyManager", "ITAcademyManager\ITAcademyManager.csproj", "{1CC69309-CADA-4EDA-9655-2ABF1318E6BD}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "ITAcademyManagerSetup", "ITAcademyManagerSetup\ITAcademyManagerSetup.vdproj", "{80EB2D25-9548-49C2-BE45-711AD31202D7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1CC69309-CADA-4EDA-9655-2ABF1318E6BD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1CC69309-CADA-4EDA-9655-2ABF1318E6BD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1CC69309-CADA-4EDA-9655-2ABF1318E6BD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1CC69309-CADA-4EDA-9655-2ABF1318E6BD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{80EB2D25-9548-49C2-BE45-711AD31202D7}.Debug|Any CPU.ActiveCfg = Debug
+		{80EB2D25-9548-49C2-BE45-711AD31202D7}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {ACB1F792-1ABE-44C0-B120-4A18CE18A020}
+	EndGlobalSection
+EndGlobal
